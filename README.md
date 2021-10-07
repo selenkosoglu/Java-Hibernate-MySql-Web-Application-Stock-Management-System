@@ -1,7 +1,6 @@
 # Java Hibernate MySql Web Application Stock Management System
 
-Application Description
-
+In this project the goal is to create a warehouse platfrom which feautures abbilities like selling different kind of products to customers, listing customers, products and orders, dealing with cash actions (payment entiries and payment outs) by using Java, Servlet, Hibernate, MySQL, JavaScript and HTML.
 ## Languages and Technologies Used in this Project
 
 | Language / Technology | :arrow_right:  |  % | 
@@ -13,6 +12,13 @@ Application Description
 | HTML | :arrow_right:  |  70 |
 | Bootstrap5 | :arrow_right:  |  60 |
 | MySQL | :arrow_right:  |  70 |
+
+## Demo Account
+| :closed_lock_with_key: E-Mail | :old_key: Password |
+|----------|----------|
+| **``skosoglu3@mail.com``**| **12345**|
+| **``irem@mail.com``**| **12345**|
+
 
 ## Application Images
 
@@ -45,9 +51,6 @@ Application Description
 
 <a href="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo10.png" target="_blank">
 <img src="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo10.png" width="240" style="max-width:100%;"></a>
-
-<a href="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo11.png" target="_blank">
-<img src="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo11.png" width="240" style="max-width:100%;"></a>
 
 <a href="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo12.png" target="_blank">
 <img src="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo12.png" width="240" style="max-width:100%;"></a>
