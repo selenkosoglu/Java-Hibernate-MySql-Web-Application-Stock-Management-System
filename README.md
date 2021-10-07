@@ -26,7 +26,7 @@ Application Description
 
 <a href="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo4.png" target="_blank">
 <img src="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo4.png" width="240" style="max-width:100%;"></a>
-  
+
 <a href="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo5.png" target="_blank">
 <img src="https://github.com/selenkosoglu/Java-Hibernate-MySql-Web-Application-Stock-Management-System/blob/main/görseller/depo5.png" width="240" style="max-width:100%;"></a>
 
