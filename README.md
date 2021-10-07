@@ -1,2 +1,2 @@
-# Java-Hibernate-MySql-Web-Application-Stock-Management-System
+# Java Hibernate MySql Web Application Stock Management System
 Description
