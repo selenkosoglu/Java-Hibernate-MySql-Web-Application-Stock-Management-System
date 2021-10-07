@@ -1,6 +1,7 @@
 # Java Hibernate MySql Web Application Stock Management System
 
-In this project the goal is to create a warehouse platfrom which feautures abbilities like selling different kind of products to customers, listing customers, products and orders, dealing with cash actions (payment entiries and payment outs) by using Java, Servlet, Hibernate, MySQL, JavaScript and HTML.
+In this project the goal is to create a warehouse platfrom which feautures abbilities like selling different kind of products to customers, listing customers, products and orders, dealing with cash actions (payment entiries and payment outs) by using Java, Servlet, Hibernate, MySQL, JavaScript and HTML. Users must be sign in to the application in order to use website facilities.
+
 ## Languages and Technologies Used in this Project
 
 | Language / Technology | :arrow_right:  |  % | 
