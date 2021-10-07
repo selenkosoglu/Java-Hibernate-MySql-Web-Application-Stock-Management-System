@@ -9,6 +9,7 @@ Application Description
 | Java | :arrow_right:  |  90 |
 | Servlet | :arrow_right:  |  80 |
 | Hibernate | :arrow_right:  |  80 |
+| JavaScript | :arrow_right:  |  80 |
 | HTML | :arrow_right:  |  70 |
 | Bootstrap5 | :arrow_right:  |  60 |
 | MySQL | :arrow_right:  |  70 |
